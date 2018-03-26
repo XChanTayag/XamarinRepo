@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-Welcome to my GitHub, I am Christian Michael Tayag.
+Welcome to my GitHub, I am Christian Michael Tayag. I am currently studying BSIT specialized in Mobile and Web Technology in Malayan Colleges Laguna
 
 ### Markdown
 
